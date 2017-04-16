@@ -1,0 +1,10 @@
+Geolocation Api(application programmer interface):
+=======================================
+=>html5 api uses for get the graphical position of user.
+
+Displaying the Result in a Map :
+========================
+=>
+MyProject =prj name
+myproject-161804= prj id
+AIzaSyCJRJHCEvEIihhJBbJwYsAaAl6B3eQMr3w

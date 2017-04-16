@@ -1,0 +1,7 @@
+What are data- attributes good for?
+=>by using data attr we can add plugins like flash files
+=>we can add html snippet to html page
+
+<object data=""></object>
+
+<embed src=""> same as <object> but dont have closing tag

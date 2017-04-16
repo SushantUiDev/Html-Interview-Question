@@ -1,0 +1,20 @@
+/*========= for line =========*/
+ctx.beginPath();
+ ctx.moveTo() ;           origin point
+ctx.lineTo() ;                up to what extend
+ctx.lineWidth=10 ;    gives line width
+ctx.stroke() ;          it will draw the line 
+
+
+
+
+
+
+/*===== for rectanglr ==========*/
+ctx.beginPath();
+ ctx.strokeStyle="green";
+ctx.strokeRect(60 , 60 ,100 , 100);   //create a rectangle with empty color
+ctx.stroke();
+
+ctx.fillStyle="green" ;it will fill rectangle in green color.
+ctx.fillRect(60,60,100,100) ;    //create a rectangle with black color

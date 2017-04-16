@@ -1,0 +1,17 @@
+Canvas Line Drawing
+
+ctx.beginPath();
+	ctx.moveTo(0,300);
+	ctx.lineTo(100,100);
+	ctx.lineWidth=2;
+	ctx.strokeStyle="yellow";
+	ctx.linejoin="miter";
+	ctx.stroke();
+
+ctx.beginPath();
+	ctx.moveTo(0,300);
+	ctx.lineTo(100,100);
+	ctx.lineWidth=2;
+	ctx.strokeStyle="yellow";
+	ctx.linejoin="miter";
+	ctx.stroke();

@@ -1,0 +1,41 @@
+**New tag in html5 ?
+**SEMENTIC ELEMENT**
+-------------------------------------
+1)<figure>
+        <img   />
+        <figcaption>
+</figure>
+
+2)<mark> :to heightlight the content (yellow)
+
+3)<datails> :provide additional information that the user can view or hide
+
+    <details>
+  <summary>heading</summary>  
+required content
+</details>
+
+4)<ruby> tag :gives addition information on top 
+  <ruby>
+<rt></rt>   :ruby text
+<rp></rp> :ruby paranthesis (invoke when browser does not support ruby tag)
+
+5)<wbr> tag 
+
+6)<progress> :to display any progress of work .
+
+<progress min="10" max="100" value="100"></progress>
+
+7)<dialog> tag :
+=>method:
+showModel();
+close();
+______________________
+<header>
+<nav>
+<section>
+<aside>
+<article>
+<footer>
+______________________
+<meter>

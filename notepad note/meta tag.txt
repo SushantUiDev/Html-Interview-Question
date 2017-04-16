@@ -1,0 +1,36 @@
+Q.what is meta tag in html ?
+=>it is a data about data .
+=>it provide data about your html document.
+=>it will not display on the page.
+
+note:
+=>meta tag always go inside the head only.
+=>it will always pass inside name /value pair
+=>contenet attribute must be defined.
+
+=>in html 5 introduce new feature that is 
+ <meta name="viewport" content="device-width"/>
+
+=><meta charset=utf-8/>
+ utf=unicode transformation format 
+
+unicode =>decimal numbers.(punctionas),symbol etc..
+charset=convert character into binary format
+
+Q.what is the use of data attribute ?
+=>data attribute can be serve on markup,it is not visible to enduser.
+
+Q.Building block of html 5 ?
+1)new sementic tag,
+2)multimedia tag
+3)session storage and local storage
+4)canvas and svg
+5)geolocation api,
+6)new form element.
+
+_________________________________
+Q.Describe cookie,session .local storage ?
+=>they are all storage on client side.
+1)cookie is a small piece key - value pair with expire date.
+2)session storage is on persistance and scope is on current window only.
+3)local storage is persistance permanantly unless we maniually delet it or clear it.

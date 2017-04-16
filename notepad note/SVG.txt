@@ -1,0 +1,6 @@
+SVG:
+=>svg stands for scalable vector graphics .
+=>svg render on browser as a image;
+=>svg is resolution indepedent.
+=>to draw graphics javascript code is not needed.
+=>this is called declarative coding.   

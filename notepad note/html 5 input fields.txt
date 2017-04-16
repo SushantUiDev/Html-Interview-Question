@@ -1,0 +1,21 @@
+HTML5 NEW FORM FEATURE:
+========================
+1.color
+2.number with attribute (min and max)
+3.range with attribute (min and max)
+4.email with build in validation
+5.url
+6.file
+7.Date
+8.datetime-local
+9.month
+10.week
+
+
+form attribute:
+===========
+formaction:
+formmethod:
+formnovalidate:
+readonly
+form="name" and add this form name to another form as a id.

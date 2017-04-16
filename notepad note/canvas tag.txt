@@ -1,0 +1,29 @@
+HTML-5 Graphics :
+1)canvas tag
+2)svg tag
+
+1)canvas :
+=>canvas tag is used to draw diffrent types of shapes like line,rectangle,circle etc....
+=>we can apply styles by filling shapes with single or multiple color .
+=>it support gradient,linear gradient,radial gradient in order to fill multiple color in shapes.
+
+2)we need to write some js code to draw the shape by using predefined method of canvas object.
+
+implementation:
+=>
+1)create canvas tag with id
+
+<canvas id="canvas1"></canvas>
+
+2)in js 
+=>get the reference of canvas tag
+
+3)generate graphics context object by using canvas obj
+
+var ctx=canvasOnj.getContext("2d");
+
+4)draw the required shape using ctx
+
+for line : ctx.lineTo() ;
+
+______________________________________________________________________
